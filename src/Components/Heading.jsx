@@ -6,7 +6,7 @@ export const Heading = () => {
   return (
     <Navbar color='dark' dark>
         <Container className='d-flex justify-content-sm-between'>
-            <NavbarBrand href='/'>My Company</NavbarBrand>
+            <NavbarBrand href='/'>My Team</NavbarBrand>
             <Nav>
                 <NavItem>
                     <Link className='btn btn-primary' to='/add'>Add User</Link>
